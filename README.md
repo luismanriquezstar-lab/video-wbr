@@ -43,6 +43,7 @@ OpenVidu has been supported under project "CPP2021-008720 NewGenVidu: An elastic
 
 ## Sponsors
 
+
 Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/openvidu#sponsor)]
 
 <a href="https://opencollective.com/openvidu/sponsor/0/website" target="_blank"><img src="https://opencollective.com/openvidu/sponsor/0/avatar.svg"></a>
