@@ -13,7 +13,7 @@
 [![][OpenViduLogo]](https://openvidu.io)
 
 openvidu
-===
+====
 
 Visit [openvidu.io](https://openvidu.io)
 
